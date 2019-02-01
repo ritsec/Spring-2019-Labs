@@ -1,0 +1,7 @@
+# Compose file for medium 2 to make it easy
+version: '3'
+services:
+  webserver: 
+    build: .
+    ports:
+      - "10002:80"
