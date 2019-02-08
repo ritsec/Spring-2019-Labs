@@ -20,7 +20,7 @@ All flags will be in the format of `RS{flag_goes_here}`\
 **Hard:** tpircs lct
 
 ### Solution:
-https://docs.google.com/document/d/1e9V0j7V13xOoCWAYuApFFKc-jWRxZLFnrRsjJeVR2JE/edit?usp=sharing 
+https://docs.google.com/document/d/1Sh-dIcBae0Aie5T49ppS8_tLtZEOMHXvnQ-lGTcTHEc/edit?usp=sharing
 
 ### Education Slides:
 https://docs.google.com/presentation/d/1mkcQPi1YgC_4KKkfQnKnZmfrRezjxROZPE3QQViJiC8/edit?usp=sharing
