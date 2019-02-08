@@ -18,3 +18,6 @@ All flags will be in the format of `RS{flag_goes_here}`\
 
 ### Solution:
 https://docs.google.com/document/d/1e9V0j7V13xOoCWAYuApFFKc-jWRxZLFnrRsjJeVR2JE/edit?usp=sharing 
+
+### Education Slides:
+https://docs.google.com/presentation/d/1ItKKN_ln4xeqfeRsDpCNztFdsNxo7o5ViUFjpmpgnKg/edit?usp=sharing
