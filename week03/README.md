@@ -1,6 +1,9 @@
 ## Week 3: Advanced Networking
 The instructions for this VM will be included in the easy1 section of the solution writeup!
 
+## Challenge Download Link
+https://drive.google.com/a/g.rit.edu/file/d/1QzQ7jvWewaPwmllFqtqJKDx9d4QTJjXP/view?usp=sharing
+
 #### Hints:
 All flags will be in the format of `RS{flag_goes_here}`\
 **Easy1:** The show must go on!\
