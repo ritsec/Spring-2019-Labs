@@ -4,5 +4,7 @@ This repository contains multiple CTF challenges in order for RITSEC students to
 
 #### Education Schedule
 1. No Meeting
-2. Advancded Web
-3. Advancded Networking
+2. Advanced Web
+3. Advanced Networking
+4. Advanced Linux
+5. Advanced Windows
