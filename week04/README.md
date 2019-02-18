@@ -11,8 +11,7 @@ All flags will be in the format of `RS{flag_goes_here}`\
 **Easy2:** I hid some popcorn, can you find it? EDIT: lscpu shows cpu info, lsof shows open files, lsusb shows usb info, etc. \
 **Medium 1a:** What's my password? (password for the binary in /home/ritsec/) \
 **Medium 1b:** Solve medium1a with a bash script! \
-**Medium 2:** Medium2 is hiding the flag in their home directory! Go read it!
-
+**Medium 2:** Medium2 is hiding the flag in their home directory! Go read it! \
 **Hard:** Login to hard and read hard.txt in their home directory!
 
 ### Solution: (hard will be released on end of day Sunday!)
