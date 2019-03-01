@@ -8,3 +8,5 @@ This repository contains multiple CTF challenges in order for RITSEC students to
 3. Advanced Networking
 4. Advanced Linux
 5. Advanced Windows
+6. No meeting
+7. Binary Exploitation
